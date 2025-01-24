@@ -12,3 +12,4 @@ jobs:
                 echo "Message 1"
                 echo "Message 2"
                 echo "::endgroup::"
+                
